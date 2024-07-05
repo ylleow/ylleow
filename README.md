@@ -1,4 +1,4 @@
-###Technical Skills
+### Technical Skills
   Programming Languages 
     SQL, Python, Javascript, C++
   Databases
