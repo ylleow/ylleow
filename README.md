@@ -1,4 +1,8 @@
 ###Technical Skills
+  Programming Languages 
+    SQL, Python, Javascript, C++
+  Databases
+    MSSQL Server, MongoDB
 
 ### Work Experience 
 
